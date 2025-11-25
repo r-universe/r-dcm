@@ -5,6 +5,9 @@
 [submodule "dcmdata"]
 	path = dcmdata
 	url = https://github.com/r-dcm/dcmdata
+[submodule "dcmstan"]
+	path = dcmstan
+	url = https://github.com/r-dcm/dcmstan
 [submodule "rdcmchecks"]
 	path = rdcmchecks
 	url = https://github.com/r-dcm/rdcmchecks
