@@ -8,6 +8,9 @@
 [submodule "dcmstan"]
 	path = dcmstan
 	url = https://github.com/r-dcm/dcmstan
+[submodule "measr"]
+	path = measr
+	url = https://github.com/r-dcm/measr
 [submodule "rdcmchecks"]
 	path = rdcmchecks
 	url = https://github.com/r-dcm/rdcmchecks
