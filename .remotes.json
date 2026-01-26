@@ -1,0 +1,8 @@
+[
+  {
+    "package": "dcmdata",
+    "url": "https://github.com/r-dcm/dcmdata",
+    "via": ["rdcmchecks"],
+    "from": "rdcmchecks"
+  }
+]
