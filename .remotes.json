@@ -2,7 +2,19 @@
   {
     "package": "dcmdata",
     "url": "https://github.com/r-dcm/dcmdata",
+    "via": ["measr", "rdcmchecks"],
+    "from": "measr"
+  },
+  {
+    "package": "dcmdata",
+    "url": "https://github.com/r-dcm/dcmdata",
     "via": ["rdcmchecks"],
     "from": "rdcmchecks"
+  },
+  {
+    "package": "rdcmchecks",
+    "url": "https://github.com/r-dcm/rdcmchecks",
+    "via": ["measr"],
+    "from": "measr"
   }
 ]
