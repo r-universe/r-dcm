@@ -4,5 +4,17 @@
     "url": "https://github.com/RConsortium/S7",
     "via": ["dcmstan"],
     "from": "dcmstan"
+  },
+  {
+    "package": "S7",
+    "url": "https://github.com/RConsortium/S7",
+    "via": ["measr", "dcmstan"],
+    "from": "measr"
+  },
+  {
+    "package": "dcmstan",
+    "url": "https://github.com/r-dcm/dcmstan",
+    "via": ["measr"],
+    "from": "measr"
   }
 ]
